@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Geotagger</string>
+    <string name="Master_id">Sensor Master ID:</string>
+    <string name="Channel_id">Channel ID:</string>
+    <string name="Listener_id">Listener Master ID:</string>
+    <string name="Next_button">Proceed</string>
+    <string name="sensor_uid">Sensor UID:</string>
+    <string name="sensor_id">Vigil ID:</string>
+    <string name="get_location">Locate</string>
+    <string name="Longitude">Longitude:</string>
+    <string name="Latitude">Latitude:</string>
+    <string name="Accuracy">Accuracy:</string>
+    <string name="Barcode_id">Barcode ID:</string>
+    <string name="Update_id">Update to DB</string>
+
+    <string name="Scan_button">Scan</string>
+    <string name="Export_button">Export Data</string>
+    <string name="Share">Share CSV</string>
+</resources>
